@@ -1,2 +1,2 @@
 # checkDuplicateFile
-Check for duplicate files
+Check for duplicate files in current directory and subdirectories
